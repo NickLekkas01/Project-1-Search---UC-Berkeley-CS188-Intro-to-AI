@@ -1,5 +1,5 @@
 # Project-2-Multi-Agent Search-UC-Berkeley-CS188-Intro-to-AI
-Implementation of the 2st Project: Multi-Agent Search from the Berkeley University
+Implementation of the 2nd Project: Multi-Agent Search from the Berkeley University
 
 http://ai.berkeley.edu/multiagent.html
 
